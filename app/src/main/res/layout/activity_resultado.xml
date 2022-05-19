@@ -18,17 +18,4 @@
         app:lottie_loop="true"
         app:lottie_rawRes="@raw/wronganimation" />
 
-    <Button
-        android:id="@+id/btnRegresar"
-        android:layout_width="186dp"
-        android:layout_height="106dp"
-        android:layout_marginTop="28dp"
-        android:text="Regresar"
-        android:textSize="20sp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/animation_view"
-
-        />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
